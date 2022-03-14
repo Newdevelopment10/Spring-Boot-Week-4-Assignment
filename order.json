@@ -1,0 +1,14 @@
+{
+	"customer": "SCOLA_ARISTAIOS",
+	"model": "GLADIATOR",
+	"trim": "Trailhawk",
+	"doors": "4",
+	"color": "INT_BLACK_SEPIA",
+	"engine": "3_0_DIESEL",
+	"tire": "265_BRIDGESTONE",
+	"options": [
+		"DOOR_QUAD_4",
+		"EXT_AEV_LIFT",
+		"STOR_RIGHTGEAR_BAG"
+	]
+}

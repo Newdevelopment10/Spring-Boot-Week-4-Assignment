@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    username: jeep
+    password: jeep
+    url: jdbc:myqsl://localhost:3306/jeep
+    
+logging:
+  level:
+    root: error
+    '[com.promineotech]': debug
+    '[org.springframework]': info
+    
+    
+    
